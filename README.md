@@ -1,2 +1,2 @@
 # cs50py
-Doing work from Harvard's CS50 Python course
+Working my way through Harvard's CS50 Python course. Things generated from that course will end up here for posterity and accountability.
