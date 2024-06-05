@@ -1,5 +1,5 @@
 def main():
-    user_string = input("What's your variable name?")
+    user_string = input("What's your variable name? ")
     print(camel_to_snake(user_string))
 
 
